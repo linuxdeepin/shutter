@@ -1,0 +1,6 @@
+{
+    "ppa": "dde",
+    "builder": "qt5",
+    "source": "https://cr.deepin.io/dde/dde-control-center#branch=master",
+    "debian": "https://cr.deepin.io/dde/dde-control-center#branch=master"
+}

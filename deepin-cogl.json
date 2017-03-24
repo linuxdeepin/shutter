@@ -1,0 +1,5 @@
+{
+    "builder": "default",
+    "source": "https://cr.deepin.io/deepin-cogl#branch=master",
+    "debian": "https://cr.deepin.io/deepin-cogl#branch=master"
+}

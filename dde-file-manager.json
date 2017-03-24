@@ -1,0 +1,10 @@
+{
+    "builder": "qt5",
+    "source": "https://cr.deepin.io/dde/dde-file-manager#branch=develop2.0",
+    "debian": "https://cr.deepin.io/dde/dde-file-manager#branch=develop2.0",
+    "rebuild": ["dde-desktop"],
+    "fakeversion": {
+	"commit": "1",
+	"tag": "0"
+    }
+}

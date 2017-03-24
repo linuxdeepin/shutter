@@ -1,0 +1,8 @@
+{
+    "builder": "qt5",
+    "source": "https://cr.deepin.io/qt5integration#branch=master",
+    "debian": "https://cr.deepin.io/qt5integration#branch=master",
+    "builder_args": {
+	"use_network": "1"
+    }
+}

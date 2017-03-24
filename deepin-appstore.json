@@ -1,0 +1,8 @@
+{
+    "builder": "qt5",
+    "source": "https://cr.deepin.io/dstore/deepin-appstore#branch=master",
+    "debian": "https://cr.deepin.io/dstore/deepin-appstore#branch=master",
+    "archives": [
+        "deb [trusted=yes] http://pools.corp.deepin.com/ppa/dstore unstable main"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "ppa": "dde",
+    "skip_source": "0",
+    "builder": "default",
+    "overlay": "tmpfs"
+}

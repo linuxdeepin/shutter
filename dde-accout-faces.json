@@ -1,0 +1,9 @@
+{
+    "ppa": "dde",
+    "skip_source": "1",
+    "builder": "default",
+    "source": "https://cr.deepin.io/dde/dde-daemon#branch=master",
+    "debian": "https://cr.deepin.io/dde/dde-daemon#branch=master",
+    "max_orig_changes": 5,
+    "overlay": "tmpfs"
+}

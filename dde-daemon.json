@@ -1,0 +1,6 @@
+{
+    "ppa": "dde",
+    "builder": "go",
+    "source": "https://cr.deepin.io/dde/dde-daemon#branch=master",
+    "debian": "https://cr.deepin.io/dde/dde-daemon#branch=master"
+}

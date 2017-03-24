@@ -1,0 +1,5 @@
+{
+    "builder": "go",
+    "source": "https://cr.deepin.io/dde/startdde#branch=master",
+    "debian": "https://cr.deepin.io/dde/startdde#branch=master"
+}

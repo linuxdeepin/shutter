@@ -1,0 +1,11 @@
+{
+    "ppa": "debian",
+    "skip_source": "0",
+    "arches": ["amd64", "i386"],
+    "experimental-arches": ["amd64"],
+    "dists": ["unstable", "experimental"],
+    "builder": "go",
+    "source": "https://cr.deepin.io/go-lib#branch=master",
+    "debian": "https://cr.deepin.io/go-lib#branch=master",
+    "rebuild": ["dde-daemon"]
+}

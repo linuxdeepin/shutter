@@ -1,0 +1,7 @@
+{
+    "ppa": "dde",
+    "skip_source": "0",
+    "builder": "go",
+    "source": "https://cr.deepin.io/dde/dde-api#branch=master",
+    "debian": "https://cr.deepin.io/dde/dde-api#branch=master"
+}

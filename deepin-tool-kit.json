@@ -1,0 +1,6 @@
+{
+    "builder": "qt5",
+    "source": "https://cr.deepin.io/deepin-tool-kit#branch=master",
+    "debian": "https://cr.deepin.io/deepin-tool-kit#branch=master",
+    "rebuild": ["dde-dock"]
+}

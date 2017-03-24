@@ -1,0 +1,5 @@
+{
+    "builder": "default",
+    "source": "https://cr.deepin.io/deepin-wm-switcher#branch=master",
+    "debian": "https://cr.deepin.io/deepin-wm-switcher#branch=master"
+}
