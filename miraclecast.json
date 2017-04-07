@@ -1,0 +1,5 @@
+{
+    "builder": "qt5",
+    "source": "https://github.com/derekdai/miraclecast.git#branch=master",
+    "debian": "https://github.com/derekdai/miraclecast.git#branch=master"
+}

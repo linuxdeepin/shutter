@@ -1,4 +1,4 @@
 {
-    "source": "https://github.com/manateelazycat/deepin-terminal.git#branch=master",
-    "debian": "https://github.com/manateelazycat/deepin-terminal.git#branch=master"
+    "source": "https://cr.deepin.io/deepin-terminal#branch=master",
+    "debian": "https://cr.deepin.io/deepin-terminal#branch=master"
 }
