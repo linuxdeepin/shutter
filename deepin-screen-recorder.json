@@ -1,4 +1,4 @@
 {
-    "source": "https://github.com/manateelazycat/deepin-screen-recorder.git#branch=master",
-    "debian": "https://github.com/manateelazycat/deepin-screen-recorder.git#branch=master"
+    "source": "https://cr.deepin.io/deepin-screen-recorder#branch=master",
+    "debian": "https://cr.deepin.io/deepin-screen-recorder#branch=master"
 }
