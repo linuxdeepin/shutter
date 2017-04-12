@@ -1,5 +1,5 @@
 {
     "builder": "default",
-    "source": "https://cr.deepin.io/deepin-cogl#branch=master",
-    "debian": "https://cr.deepin.io/deepin-cogl#branch=master"
+    "source": "https://cr.deepin.io/deepin-cogl#branch=cogl-1.22",
+    "debian": "https://cr.deepin.io/deepin-cogl#branch=cogl-1.22"
 }
