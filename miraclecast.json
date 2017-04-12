@@ -1,5 +1,5 @@
 {
     "builder": "qt5",
-    "source": "https://cr.deepin.io/miraclecast#branch=master",
-    "debian": "https://cr.deepin.io/miraclecast#branch=master"
+    "source": "https://cr.deepin.io/miraclecast#branch=stablelizing",
+    "debian": "https://cr.deepin.io/miraclecast#branch=stablelizing"
 }
