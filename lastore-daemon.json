@@ -1,0 +1,6 @@
+{
+    "ppa": "dde",
+    "builder": "go",
+    "source": "https://cr.deepin.io/lastore/lastore-daemon#branch=master",
+    "debian": "https://cr.deepin.io/lastore/lastore-daemon#branch=master"
+}
