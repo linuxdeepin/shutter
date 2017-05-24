@@ -1,0 +1,9 @@
+{
+    "builder": "qt5",
+    "source": "https://cr.deepin.io/dde/dde-file-manager-integration#branch=master",
+    "debian": "https://cr.deepin.io/dde/dde-file-manager-integration#branch=master",
+    "fakeversion": {
+	"commit": "1",
+	"tag": "0"
+    }
+}
