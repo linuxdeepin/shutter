@@ -1,5 +1,5 @@
 {
     "builder": "default",
     "source": "https://cr.deepin.io/deepin-mutter#branch=release/3.20",
-    "debian": "/srv/shuttle/repos/git/deepin-mutter#branch=master"
+    "debian": "https://cr.deepin.io/deepin-mutter#branch=release/3.20"
 }
