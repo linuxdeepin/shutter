@@ -1,4 +1,5 @@
 {
+    "builder": "qt5",
     "source": "https://cr.deepin.io/deepin-voice-recorder#branch=master",
     "debian": "https://cr.deepin.io/deepin-voice-recorder#branch=master"
 }
