@@ -1,0 +1,5 @@
+{
+    "builder": "qt5",
+    "source": "https://cr.deepin.io/deepin-deb-installer#branch=master",
+    "debian": "https://cr.deepin.io/deepin-deb-installer#branch=master"
+}
