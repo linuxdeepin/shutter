@@ -1,6 +1,0 @@
-{
-    "builder": "qt5",
-    "source": "ssh://jenkins@cr.deepin.io:29418/private/deepin-scanner#branch=master",
-    "debian": "ssh://jenkins@cr.deepin.io:29418/private/deepin-scanner#branch=master",
-    "skip_source":"1"
-}
