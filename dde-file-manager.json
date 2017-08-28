@@ -3,7 +3,7 @@
     "source": "https://cr.deepin.io/dde/dde-file-manager#branch=develop2.0",
     "debian": "https://cr.deepin.io/dde/dde-file-manager#branch=develop2.0",
     "fakeversion": {
-	"commit": "1",
-	"tag": "0"
+        "commit": "1",
+        "tag": "0"
     }
 }
