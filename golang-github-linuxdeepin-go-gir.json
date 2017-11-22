@@ -1,5 +1,5 @@
 {
-    "builder": "qt5",
+    "builder": "go",
     "source": "https://cr.deepin.io/go-gir#branch=master",
     "debian": "https://cr.deepin.io/go-gir#branch=master"
 }
