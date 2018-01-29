@@ -1,0 +1,5 @@
+{
+    "builder": "qt",
+    "source": "https://cr.deepin.io/dpa-ext-gnomekeyring#branch=master",
+    "debian": "https://cr.deepin.io/dpa-ext-gnomekeyring#branch=master"
+}
