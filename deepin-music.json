@@ -1,9 +1,5 @@
 {
     "builder": "qt5",
     "source": "https://cr.deepin.io/deepin-music#branch=master",
-    "debian": "https://cr.deepin.io/deepin-music#branch=master",
-    "fakeversion": {
-        "commit": "1",
-        "tag": "0"
-    }
+    "debian": "https://cr.deepin.io/deepin-music#branch=master"
 }
