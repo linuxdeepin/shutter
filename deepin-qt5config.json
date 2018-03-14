@@ -1,0 +1,5 @@
+{
+    "builder": "qt5",
+    "source": "https://cr.deepin.io/deepin-qt5config#branch=master",
+    "debian": "https://cr.deepin.io/deepin-qt5config#branch=master"
+}
